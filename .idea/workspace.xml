@@ -18,6 +18,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2IMvPPATeS69A1SLdl1HuSU2Nc5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670004244201</updated>
       <workItem from="1670004246083" duration="208000" />
-      <workItem from="1670011253851" duration="613000" />
+      <workItem from="1670011253851" duration="896000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1670011739971</created>
